@@ -2,7 +2,7 @@
 
 ### 1. The Core Logic
 
-SMT-LIB uses **Lisp-style prefix notation** (S-expressions). Everything is wrapped in parentheses, and the operator comes first.
+SMT-LIB uses **Lisp-style prefix notation** (S-expressions). Erything is wrapped in parentheses, and the operator comes first.
 
 - **Standard:**
 - **SMT-LIB:** `(= (+ 2 2) 4)`
